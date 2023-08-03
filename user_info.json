@@ -1,0 +1,114 @@
+{
+    "_default": {
+        "1": {
+            "user_id": 446698255791816704,
+            "name": "strechintarezoliucija#1723",
+            "money": 0.0,
+            "last_time_mined": 1639165862.177132,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "2": {
+            "user_id": 661297736930295844,
+            "name": "Laur1s#7642",
+            "money": 95.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "3": {
+            "user_id": 357878454672424962,
+            "name": "Pauliux#9999",
+            "money": 0.0,
+            "last_time_mined": 1638454679.561177,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "4": {
+            "user_id": 403261810666504201,
+            "name": "real_T#7814",
+            "money": 182.0,
+            "last_time_mined": 0,
+            "btc": 0.0009685285003418211,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "5": {
+            "user_id": 351381454716141571,
+            "name": "Metro#2666",
+            "money": 0.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "6": {
+            "user_id": 372434719754813450,
+            "name": "Sveik#5915",
+            "money": 3120.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "7": {
+            "user_id": 426825736448507905,
+            "name": "Danik#3931",
+            "money": 200.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "8": {
+            "user_id": 325199774238113792,
+            "name": "Radzislovas#5671",
+            "money": 200.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "9": {
+            "user_id": 735797952697860137,
+            "name": "Rokxas#2435",
+            "money": 225.0,
+            "last_time_mined": 0,
+            "btc": 0.005,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 2.201803766893185
+        },
+        "10": {
+            "user_id": 374262802619170817,
+            "name": "Name'as#3720",
+            "money": 200.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        },
+        "11": {
+            "user_id": 277056523304304641,
+            "name": "kebs#1220",
+            "money": 0.0,
+            "last_time_mined": 0,
+            "btc": 0.0,
+            "eth": 0.0,
+            "doge": 0.0,
+            "ltc": 0.0
+        }
+    }
+}
